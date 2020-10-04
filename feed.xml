@@ -3,12 +3,24 @@
     <title>Yee Chie Tu</title>
     <link href="https://www.itchy.nl/feed.xml" rel="self" />
     <link href="https://www.itchy.nl" />
-    <updated>2020-10-04T05:16:22+02:00</updated>
+    <updated>2020-10-04T13:36:00+02:00</updated>
     <author>
         <name>Yee Chie Tu</name>
     </author>
     <id>https://www.itchy.nl</id>
 
+    <entry>
+        <title>Other licences</title>
+        <author>
+            <name>Yee Chie Tu</name>
+        </author>
+        <link href="https://www.itchy.nl/other-licences/"/>
+        <id>https://www.itchy.nl/other-licences/</id>
+
+        <updated>2020-10-04T13:36:00+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Contact</title>
         <author>
