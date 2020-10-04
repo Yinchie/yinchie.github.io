@@ -8,4 +8,24 @@
 <loc>https://yinchie.github.io/hello/</loc>
 <lastmod>2020-10-04T02:31:36+02:00</lastmod>
 </url>
+<url>
+<loc>https://yinchie.github.io/raspberry-pi-4-with-openvpn-pihole-dnscrypt/</loc>
+<lastmod>2020-10-04T03:06:43+02:00</lastmod>
+<image:image>
+<image:loc>https://yinchie.github.io/media\posts\2/IMG_20200312_130217.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://yinchie.github.io/media\posts\2/2020-03-12.png</image:loc>
+<image:title><![CDATA[DNSCrypt-Proxy service is running successfully. Screenshot shows a different configuration.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://yinchie.github.io/media\posts\2/pihole-dns-settings.png</image:loc>
+<image:title><![CDATA[Pi-Hole DNS settings page configured to use a custom upstream DNS server.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://yinchie.github.io/media\posts\2/windows-custom-dns-servers.png</image:loc>
+<image:title><![CDATA[Example on Microsoft Windows.]]></image:title>
+</image:image>
+</url>
 </urlset>
