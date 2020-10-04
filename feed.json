@@ -76,9 +76,11 @@
                 "name": "Yee Chie Tu"
             },
             "tags": [
+                   "friends",
+                   "bestie"
             ],
             "date_published": "2020-02-29T04:38:00+01:00",
-            "date_modified": "2020-10-04T05:09:45+02:00"
+            "date_modified": "2020-10-04T13:58:05+02:00"
         },
         {
             "id": "https://www.itchy.nl/raspberry-pi-4-with-openvpn-pihole-dnscrypt/",
