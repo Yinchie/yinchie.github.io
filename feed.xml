@@ -3,7 +3,7 @@
     <title>Yee Chie</title>
     <link href="https://yinchie.github.io/feed.xml" rel="self" />
     <link href="https://yinchie.github.io" />
-    <updated>2020-10-04T03:06:43+02:00</updated>
+    <updated>2020-10-04T03:08:49+02:00</updated>
     <author>
         <name>Yee Chie Tu</name>
     </author>
@@ -22,7 +22,7 @@
             <category term="dnscrypt"/>
             <category term="dns"/>
 
-        <updated>2020-10-04T03:06:43+02:00</updated>
+        <updated>2020-10-04T03:08:49+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://yinchie.github.io/media/posts/2/IMG_20200312_130217.jpg" alt="" />
@@ -38,7 +38,6 @@
 <div class="post__toc">
 <h3>Table of Contents</h3>
 <ul>
-<li> </li>
 <li><a href="#raspberry-pi-os">Raspberry Pi OS</a>
 <ul>
 <li><a href="#optional-tweak-raspbian">Optional: Tweak Raspbian</a></li>
