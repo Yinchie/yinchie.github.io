@@ -186,27 +186,4 @@ sudo bash basic-install.sh</code></pre>
             ]]>
         </content>
     </entry>
-    <entry>
-        <title>Hello</title>
-        <author>
-            <name>Yee Chie Tu</name>
-        </author>
-        <link href="https://www.itchy.nl/hello/"/>
-        <id>https://www.itchy.nl/hello/</id>
-
-        <updated>2020-10-04T02:31:36+02:00</updated>
-            <summary>
-                <![CDATA[
-                     Testing new website. 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-  <p>
-    Testing new website.
-  </p>
-            ]]>
-        </content>
-    </entry>
 </feed>

@@ -28,20 +28,6 @@
             ],
             "date_published": "2020-10-04T03:03:28+02:00",
             "date_modified": "2020-10-04T03:08:49+02:00"
-        },
-        {
-            "id": "https://www.itchy.nl/hello/",
-            "url": "https://www.itchy.nl/hello/",
-            "title": "Hello",
-            "summary": " Testing new website. ",
-            "content_html": "\n  <p>\n    Testing new website.\n  </p>",
-            "author": {
-                "name": "Yee Chie Tu"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-10-04T02:31:36+02:00",
-            "date_modified": "2020-10-04T02:31:36+02:00"
         }
     ]
 }
