@@ -3,7 +3,7 @@
     <title>Yee Chie Tu</title>
     <link href="https://www.itchy.nl/feed.xml" rel="self" />
     <link href="https://www.itchy.nl" />
-    <updated>2020-10-04T17:19:52+02:00</updated>
+    <updated>2020-10-04T17:21:38+02:00</updated>
     <author>
         <name>Yee Chie Tu</name>
     </author>
@@ -179,10 +179,11 @@ Fingerprint=D874 82EE A298 0BE2 2FCB  D8B2 566B 1E21 370D 02E0</code></pre>
         </author>
         <link href="https://www.itchy.nl/amsterdam-with-yuna/"/>
         <id>https://www.itchy.nl/amsterdam-with-yuna/</id>
+            <category term="gallery"/>
             <category term="friends"/>
             <category term="bestie"/>
 
-        <updated>2020-10-04T17:19:52+02:00</updated>
+        <updated>2020-10-04T17:21:38+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.itchy.nl/media/posts/6/IMG_20200229_175538-2.jpg" alt="Yuna at wondr experience" />
