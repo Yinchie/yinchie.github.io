@@ -9,5 +9,19 @@
         "name": "Yee Chie Tu"
     },
     "items": [
+        {
+            "id": "https://yinchie.github.io/hello/",
+            "url": "https://yinchie.github.io/hello/",
+            "title": "Hello",
+            "summary": " Testing new website. ",
+            "content_html": "\n  <p>\n    Testing new website.\n  </p>",
+            "author": {
+                "name": "Yee Chie Tu"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-10-04T02:31:36+02:00",
+            "date_modified": "2020-10-04T02:31:36+02:00"
+        }
     ]
 }

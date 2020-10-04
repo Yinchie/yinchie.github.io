@@ -3,10 +3,33 @@
     <title>Yee Chie</title>
     <link href="https://yinchie.github.io/feed.xml" rel="self" />
     <link href="https://yinchie.github.io" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2020-10-04T02:31:36+02:00</updated>
     <author>
         <name>Yee Chie Tu</name>
     </author>
     <id>https://yinchie.github.io</id>
 
+    <entry>
+        <title>Hello</title>
+        <author>
+            <name>Yee Chie Tu</name>
+        </author>
+        <link href="https://yinchie.github.io/hello/"/>
+        <id>https://yinchie.github.io/hello/</id>
+
+        <updated>2020-10-04T02:31:36+02:00</updated>
+            <summary>
+                <![CDATA[
+                     Testing new website. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Testing new website.
+  </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
