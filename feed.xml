@@ -3,12 +3,78 @@
     <title>Yee Chie</title>
     <link href="https://www.itchy.nl/feed.xml" rel="self" />
     <link href="https://www.itchy.nl" />
-    <updated>2020-10-04T03:53:39+02:00</updated>
+    <updated>2020-10-04T04:12:57+02:00</updated>
     <author>
         <name>Yee Chie Tu</name>
     </author>
     <id>https://www.itchy.nl</id>
 
+    <entry>
+        <title>About</title>
+        <author>
+            <name>Yee Chie Tu</name>
+        </author>
+        <link href="https://www.itchy.nl/about/"/>
+        <id>https://www.itchy.nl/about/</id>
+
+        <updated>2020-10-04T04:12:57+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Little bit about Yee Chie and his website2019His mind operates a little differently than what society expects. Yee Chie Tu is an introverted geek from The Netherlands. Born in Eindhoven and currently based in Bladel. He is mixed blood from a Taiwanese mother and a Singaporean&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h3 class="align-center">Little bit about Yee Chie and his website</h3>
+<figure class="kg-card kg-image-card kg-card-hascaption"><figure class="kg-image"><img loading="lazy"  src="https://web.archive.org/web/20201003105353im_/https://www.itchy.nl/content/images/2020/03/IMG_20191028_175457_925.jpg" data-is-external-image="true"  alt=""></figure>
+<figcaption>2019</figcaption>
+</figure>
+<p class="msg msg--info">His mind operates a little differently than what society expects.</p>
+<p><strong>Yee Chie Tu</strong> is an introverted geek from The Netherlands. Born in Eindhoven and currently based in Bladel. He is mixed blood from a Taiwanese mother and a Singaporean father. He is the tallest in the family with a height of 1.85m.</p>
+<p>His interests are baseball, nature, hiking, cycling, anime, gaming, computers, and traveling. Everything he does computer-related is self-taught.</p>
+<p class="msg msg--highlight   msg--info"><em>He holds freedom of speech, net neutrality, and privacy in high regard.</em></p>
+<p>The website has been created so he could share his thoughts, opinions, tips, tricks, guides and more. As well to have his place on the massive worldwide web.</p>
+<p>Hopefully, you will gain some valuable knowledge from here.</p>
+<p><em>Wonder how to pronounce his name? Head to google translate “</em><a href="https://web.archive.org/web/20201003105353/https://translate.google.com/#en/en/e-chie"><em>e-Chie</em></a><em>”.</em></p>
+<p class="msg msg--info"><em><strong>You only live once</strong>.</em><br><em>His way of life these days, for self-improvement and self-acceptance.</em></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Disclaimer</title>
+        <author>
+            <name>Yee Chie Tu</name>
+        </author>
+        <link href="https://www.itchy.nl/disclaimer/"/>
+        <id>https://www.itchy.nl/disclaimer/</id>
+
+        <updated>2020-10-04T03:59:10+02:00</updated>
+            <summary>
+                <![CDATA[
+                    This disclaimer, terms, and conditions of use apply to you (“user”, “you” or “your”) when you view, access or otherwise use the blog located at www.itchy.nl (the “blog”). The blog is owned by Yee Chie Tu (“website operator”, “owner”, “me” or “I”). This is a&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This disclaimer, terms, and conditions of use apply to you (“user”, “you” or “your”) when you view, access or otherwise use the blog located at  www.itchy.nl (the “blog”). The blog is owned by Yee Chie Tu (“website operator”, “owner”, “me” or “I”).</p>
+<hr>
+<h3 id="personal-blog">Personal Blog</h3>
+<p>This is a personal blog written and edited by me. For questions about this blog, please contact me.</p>
+<p>Any views or opinions represented in this blog are personal and belong solely to me alone and do not represent those of people, institutions or organizations that I may or may not be associated with in professional or personal capacity unless explicitly stated.</p>
+<p>Any views or opinions are not intended to malign any religion, ethnic group, club, organization, company, or individual.</p>
+<p>Also, thoughts and opinions of me change from time to time, this a necessary consequence of having an open mind.</p>
+<p>All content provided on this blog is for informational and educational purposes only. I make no representations as to the accuracy or completeness of any information on this site or found by following any link on this site.</p>
+<p>I will not be liable for any errors or omissions in this information nor for the availability of this information. I will not be liable for any losses, injuries, or damages from the display or use of this information.</p>
+<hr>
+<h3 id="downloadable-files-and-images">Downloadable Files and Images</h3>
+<p>Any downloadable file, including but not limited to pdfs, docs, jpegs,  pngs, webps, is provided at the user’s own risk. I will not be liable for any losses, injuries, or damages resulting from a corrupted or damaged file.</p>
+<hr>
+<h3 id="consent">Consent</h3>
+<p>By using the owner’s website, you hereby consent to the owner’s disclaimer and agree to its terms and conditions.</p>
+<p><em>Last updated: March 13th, 2020</em></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Raspberry Pi 4 with Pi-Hole, OpenVPN and DNSCrypt</title>
         <author>
