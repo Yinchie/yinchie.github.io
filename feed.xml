@@ -3,7 +3,7 @@
     <title>Yee Chie Tu</title>
     <link href="https://www.itchy.nl/feed.xml" rel="self" />
     <link href="https://www.itchy.nl" />
-    <updated>2020-10-04T20:30:05+02:00</updated>
+    <updated>2020-10-04T20:40:54+02:00</updated>
     <author>
         <name>Yee Chie Tu</name>
     </author>
@@ -88,7 +88,7 @@
         <link href="https://www.itchy.nl/contact/"/>
         <id>https://www.itchy.nl/contact/</id>
 
-        <updated>2020-10-04T20:30:05+02:00</updated>
+        <updated>2020-10-04T20:40:54+02:00</updated>
             <summary>
                 <![CDATA[
                     For any comments or questions, please reach out to me. Messages sent to me may optionally be signed and or encrypted with my public key. If you receive an email from me, it will be signed using my secret key. If it isn’t, assume it has&hellip;
@@ -97,10 +97,10 @@
         <content type="html">
             <![CDATA[
                 <p>For any comments or questions, please reach out to me.<br>Messages sent to me may optionally be signed and or encrypted with my <a href="https://keybase.io/yeechie/pgp_keys.asc" title="my public PGP key" target="_blank" rel="nofollow noopener noreferrer">public key</a>.</p>
-<p class="msg msg--info">If you receive an email from me, it will be signed using my secret key. <br>If it isn’t, assume it has been tampered with or spoofed altogether!</p>
-<figure class="post__image"><img loading="lazy"  src="https://img.shields.io/badge/email-me%40itchy.nl-blue?style=flat-square" data-is-external-image="true"  alt="" width="118" height="20"></figure> <figure class="post__image"><img loading="lazy"  src="https://img.shields.io/keybase/pgp/yeechie?style=flat-square" data-is-external-image="true"  alt="" width="154" height="20"></figure>
-<p><code class=" language-text"></code>If you are unfamiliar with PGP encryption you can use the website <a href="https://apps.crp.to/encrypt.html?type=e&amp;recipients=yeechie" title="Crypto WebCrypt" target="_blank" rel="nofollow noopener noreferrer">https://apps.crpt.to/encrypt.html</a>, to encrypt your message before sending it to me. It makes use of OnlyKey WebCrypt v2.</p>
+<p class="msg--highlight msg msg--info">If you receive an email from me, it will be signed using my secret key. <br>If it isn’t, assume it has been tampered with or spoofed altogether!</p>
+<p>If you are unfamiliar with PGP encryption you can use the website <a href="https://apps.crp.to/encrypt.html?type=e&amp;recipients=yeechie" title="Crypto WebCrypt" target="_blank" rel="nofollow noopener noreferrer">https://apps.crpt.to/encrypt.html</a>, to encrypt your message before sending it to me. It makes use of OnlyKey WebCrypt v2.</p>
 <p class="msg msg--info"><a href="https://docs.crp.to/webcrypt.html" target="_blank" rel="nofollow noopener noreferrer">WebCrypt</a> is a web application that integrates with <a href="https://onlykey.io/" target="_blank" rel="nofollow noopener noreferrer">OnlyKey</a> and <a href="https://keybase.io/" target="_blank" rel="nofollow noopener noreferrer">keybase.io</a> to provide secure OpenPGP encryption.</p>
+<figure class="post__image post__image--left"><img loading="lazy"  src="https://img.shields.io/badge/email-me%40itchy.nl-blue?style=for-the-badge" data-is-external-image="true"  alt="" width="184" height="28"></figure><figure class="post__image post__image--right"><img loading="lazy"  src="https://img.shields.io/keybase/pgp/yeechie?style=for-the-badge" data-is-external-image="true"  alt="" width="211" height="28"></figure>
             ]]>
         </content>
     </entry>
