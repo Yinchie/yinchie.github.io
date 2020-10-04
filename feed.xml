@@ -3,7 +3,7 @@
     <title>Yee Chie</title>
     <link href="https://www.itchy.nl/feed.xml" rel="self" />
     <link href="https://www.itchy.nl" />
-    <updated>2020-10-04T03:08:49+02:00</updated>
+    <updated>2020-10-04T03:36:34+02:00</updated>
     <author>
         <name>Yee Chie Tu</name>
     </author>
@@ -22,7 +22,7 @@
             <category term="dnscrypt"/>
             <category term="dns"/>
 
-        <updated>2020-10-04T03:08:49+02:00</updated>
+        <updated>2020-10-04T03:36:34+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.itchy.nl/media/posts/2/IMG_20200312_130217.jpg" alt="" />
@@ -155,7 +155,7 @@ sudo cp example-dnscrypt-proxy.toml dnscrypt-proxy.toml</code></pre>
 </ul>
 <p>Feel free to change additional options inside the configuration file to suit your needs as I have done.</p>
 <figure class="post__image post__image--center" ><img loading="lazy" src="https://www.itchy.nl/media/posts/2/2020-03-12.png" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://www.itchy.nl/media/posts/2/responsive/2020-03-12-xs.png 300w ,https://www.itchy.nl/media/posts/2/responsive/2020-03-12-sm.png 480w ,https://www.itchy.nl/media/posts/2/responsive/2020-03-12-md.png 768w"  alt="DNSCrypt-Proxy service is running successfully. Screenshot shows a different configuration." width="1069" height="662">
-<figcaption >CaptionDNSCrypt-Proxy service is running successfully. Screenshot shows a different configuration.</figcaption>
+<figcaption >DNSCrypt-Proxy service is running successfully. Screenshot shows a different configuration.</figcaption>
 </figure>
 <hr>
 <h2 id="pi-hole">Pi-Hole</h2>
@@ -171,13 +171,13 @@ sudo bash basic-install.sh</code></pre>
 <h3 id="configure-pi-hole">Configure Pi-Hole</h3>
 <p>Add the DNSCrypt-Proxy server to Pi-Hole on the <a href="http://pi.hole/admin/settings.php?tab=dns">Pi-Hole admin page</a>.</p>
 <figure class="post__image post__image--center" ><img loading="lazy" src="https://www.itchy.nl/media/posts/2/pihole-dns-settings.png" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://www.itchy.nl/media/posts/2/responsive/pihole-dns-settings-xs.png 300w ,https://www.itchy.nl/media/posts/2/responsive/pihole-dns-settings-sm.png 480w ,https://www.itchy.nl/media/posts/2/responsive/pihole-dns-settings-md.png 768w"  alt="Pi-Hole DNS settings page configured to use a custom upstream DNS server." width="1009" height="631">
-<figcaption >CaptPi-Hole DNS settings page configured to use a custom upstream DNS server.ion</figcaption>
+<figcaption >Pi-Hole DNS settings page configured to use a custom upstream DNS server.</figcaption>
 </figure>
 <hr>
 <h2 id="configure-clients">Configure clients</h2>
 <p>Configure clients to use the Pi-Hole IP address as the DNS server or configure the router so that every client on the local network will be using Pi-Hole filtering while being DNSCrypt secured.</p>
 <figure class="post__image post__image--center" ><img loading="lazy" src="https://www.itchy.nl/media/posts/2/windows-custom-dns-servers.png" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://www.itchy.nl/media/posts/2/responsive/windows-custom-dns-servers-xs.png 300w ,https://www.itchy.nl/media/posts/2/responsive/windows-custom-dns-servers-sm.png 480w ,https://www.itchy.nl/media/posts/2/responsive/windows-custom-dns-servers-md.png 768w"  alt="Example on Microsoft Windows." width="803" height="503">
-<figcaption >CapExample on Microsoft Windows.tion</figcaption>
+<figcaption >Example on Microsoft Windows.</figcaption>
 </figure>
 <p> </p>
 <p> </p>
