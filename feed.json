@@ -10,9 +10,9 @@
     },
     "items": [
         {
-            "id": "https://www.itchy.nl/other-licences/",
-            "url": "https://www.itchy.nl/other-licences/",
-            "title": "Other licences",
+            "id": "https://www.itchy.nl/mentions/",
+            "url": "https://www.itchy.nl/mentions/",
+            "title": "Mentions",
             "summary": ".",
             "content_html": "<p>.</p>",
             "author": {
@@ -21,7 +21,7 @@
             "tags": [
             ],
             "date_published": "2020-10-04T13:36:00+02:00",
-            "date_modified": "2020-10-04T13:37:47+02:00"
+            "date_modified": "2020-10-04T13:41:11+02:00"
         },
         {
             "id": "https://www.itchy.nl/contact/",
