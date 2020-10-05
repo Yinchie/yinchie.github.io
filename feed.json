@@ -5,6 +5,7 @@
     "home_page_url": "https://www.itchy.nl",
     "feed_url": "https://www.itchy.nl/feed.json",
     "user_comment": "",
+    "icon": "https://www.itchy.nl/media/website/yeechie_large-2-3.png",
     "author": {
         "name": "Yee Chie Tu"
     },
@@ -27,34 +28,6 @@
             "date_modified": "2020-10-04T21:06:46+02:00"
         },
         {
-            "id": "https://www.itchy.nl/mentions/",
-            "url": "https://www.itchy.nl/mentions/",
-            "title": "Mentions",
-            "summary": ".",
-            "content_html": "<p>.</p>",
-            "author": {
-                "name": "Yee Chie Tu"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-10-04T13:36:00+02:00",
-            "date_modified": "2020-10-04T13:43:16+02:00"
-        },
-        {
-            "id": "https://www.itchy.nl/contact/",
-            "url": "https://www.itchy.nl/contact/",
-            "title": "Contact",
-            "summary": "For any comments or questions, please reach out to me. Messages sent to me may optionally be signed and or encrypted with my public key. If you receive an email from me, it will be signed using my secret key. If it isn’t, assume it has&hellip;",
-            "content_html": "<p>For any comments or questions, please reach out to me.<br>Messages sent to me may optionally be signed and or encrypted with my <a href=\"https://keybase.io/yeechie/pgp_keys.asc\" title=\"my public PGP key\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">public key</a>.</p>\n<p class=\"msg--highlight msg msg--info\">If you receive an email from me, it will be signed using my secret key. <br>If it isn’t, assume it has been tampered with or spoofed altogether!</p>\n<p>If you are unfamiliar with PGP encryption you can use the website <a href=\"https://apps.crp.to/encrypt.html?type=e&amp;recipients=yeechie\" title=\"Crypto WebCrypt\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://apps.crpt.to/encrypt.html</a>, to encrypt your message before sending it to me. It makes use of OnlyKey WebCrypt v2.</p>\n<p class=\"msg msg--info\"><a href=\"https://docs.crp.to/webcrypt.html\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">WebCrypt</a> is a web application that integrates with <a href=\"https://onlykey.io/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">OnlyKey</a> and <a href=\"https://keybase.io/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">keybase.io</a> to provide secure OpenPGP encryption.</p>\n<figure class=\"post__image post__image--left\"><img loading=\"lazy\"  src=\"https://img.shields.io/badge/email-me%40itchy.nl-blue?style=for-the-badge\" data-is-external-image=\"true\"  alt=\"\" width=\"184\" height=\"28\"></figure><figure class=\"post__image post__image--right\"><img loading=\"lazy\"  src=\"https://img.shields.io/keybase/pgp/yeechie?style=for-the-badge\" data-is-external-image=\"true\"  alt=\"\" width=\"211\" height=\"28\"></figure>",
-            "author": {
-                "name": "Yee Chie Tu"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-10-04T04:20:58+02:00",
-            "date_modified": "2020-10-04T20:40:54+02:00"
-        },
-        {
             "id": "https://www.itchy.nl/about/",
             "url": "https://www.itchy.nl/about/",
             "title": "About Yee Chie and his website.",
@@ -67,20 +40,6 @@
             ],
             "date_published": "2020-10-04T04:02:53+02:00",
             "date_modified": "2020-10-04T05:16:22+02:00"
-        },
-        {
-            "id": "https://www.itchy.nl/disclaimer/",
-            "url": "https://www.itchy.nl/disclaimer/",
-            "title": "Disclaimer",
-            "summary": "This disclaimer, terms, and conditions of use apply to you (“user”, “you” or “your”) when you view, access or otherwise use the blog located at www.itchy.nl (the “blog”). The blog is owned by Yee Chie Tu (“website operator”, “owner”, “me” or “I”). This is a&hellip;",
-            "content_html": "<p>This disclaimer, terms, and conditions of use apply to you (“user”, “you” or “your”) when you view, access or otherwise use the blog located at  www.itchy.nl (the “blog”). The blog is owned by Yee Chie Tu (“website operator”, “owner”, “me” or “I”).</p>\n<hr>\n<h3 id=\"personal-blog\">Personal Blog</h3>\n<p>This is a personal blog written and edited by me. For questions about this blog, please contact me.</p>\n<p>Any views or opinions represented in this blog are personal and belong solely to me alone and do not represent those of people, institutions or organizations that I may or may not be associated with in professional or personal capacity unless explicitly stated.</p>\n<p>Any views or opinions are not intended to malign any religion, ethnic group, club, organization, company, or individual.</p>\n<p>Also, thoughts and opinions of me change from time to time, this a necessary consequence of having an open mind.</p>\n<p>All content provided on this blog is for informational and educational purposes only. I make no representations as to the accuracy or completeness of any information on this site or found by following any link on this site.</p>\n<p>I will not be liable for any errors or omissions in this information nor for the availability of this information. I will not be liable for any losses, injuries, or damages from the display or use of this information.</p>\n<hr>\n<h3 id=\"downloadable-files-and-images\">Downloadable Files and Images</h3>\n<p>Any downloadable file, including but not limited to pdfs, docs, jpegs,  pngs, webps, is provided at the user’s own risk. I will not be liable for any losses, injuries, or damages resulting from a corrupted or damaged file.</p>\n<hr>\n<h3 id=\"consent\">Consent</h3>\n<p>By using the owner’s website, you hereby consent to the owner’s disclaimer and agree to its terms and conditions.</p>\n<p><em>Last updated: March 13th, 2020</em></p>",
-            "author": {
-                "name": "Yee Chie Tu"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-10-04T03:58:33+02:00",
-            "date_modified": "2020-10-04T03:59:10+02:00"
         },
         {
             "id": "https://www.itchy.nl/amsterdam-with-yuna/",
