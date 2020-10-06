@@ -3,7 +3,7 @@
     <title>Yee Chie Tu</title>
     <link href="https://www.itchy.nl/feed.xml" rel="self" />
     <link href="https://www.itchy.nl" />
-    <updated>2020-10-04T21:11:04+02:00</updated>
+    <updated>2020-10-06T23:15:34+02:00</updated>
     <author>
         <name>Yee Chie Tu</name>
     </author>
@@ -19,7 +19,7 @@
             <category term="website"/>
             <category term="github"/>
 
-        <updated>2020-10-04T21:06:46+02:00</updated>
+        <updated>2020-10-06T23:15:34+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.itchy.nl/media/posts/9/2020-10-04.png" alt="" />
@@ -54,6 +54,7 @@
 <p class="msg msg--info"><span data-preserver-spaces="true">The website is also going through the </span><a target="_blank" href="https://www.cloudflare.com/" class="editor-rtfLink" rel="noopener"><span data-preserver-spaces="true">Cloudflare</span></a><span data-preserver-spaces="true"> network for additional performance and security benefits.</span></p>
 <p><span data-preserver-spaces="true">I should have moved sooner because it saves money and time. Now I can save myself 13 Euro each month. And I no longer have to maintain and keep the Vultr VPS updated.</span></p>
 <p><span data-preserver-spaces="true">Alternatively, if GitHub Pages doesn't end up working great, I can always move to </span><a target="_blank" href="https://www.netlify.com/" class="editor-rtfLink" rel="noopener"><span data-preserver-spaces="true">Netlify</span></a><span data-preserver-spaces="true">, which is quite similar but offers a lot more features.</span></p>
+<p><em><strong>Update:</strong></em> <em>as of October 6th, 2020, DigitalOcean unveiled its <a href="#INTERNAL_LINK#/null/undefined" title="https://www.digitalocean.com/products/app-platform/" target="_blank" rel="nofollow noopener noreferrer">app platform</a>. That is another method to host a static website or your app!</em></p>
 <p><span data-preserver-spaces="true">For now, it feels good. And I am proud to be hosted by GitHub!</span></p>
 <p> </p>
 <p> </p>
