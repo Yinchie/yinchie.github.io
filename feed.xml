@@ -3,7 +3,7 @@
     <title>Yee Chie Tu</title>
     <link href="https://www.itchy.nl/feed.xml" rel="self" />
     <link href="https://www.itchy.nl" />
-    <updated>2020-10-06T23:27:47+02:00</updated>
+    <updated>2020-11-13T22:01:38+01:00</updated>
     <author>
         <name>Yee Chie Tu</name>
     </author>
@@ -19,11 +19,11 @@
             <category term="website"/>
             <category term="github"/>
 
-        <updated>2020-10-06T23:27:47+02:00</updated>
+        <updated>2020-11-13T22:01:38+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.itchy.nl/media/posts/9/2020-10-04.png" alt="" />
-                    <p><span data-preserver-spaces="true">I have moved the entire website over to </span><a target="_blank" href="https://pages.github.com/" class="editor-rtfLink" rel="noopener"><span data-preserver-spaces="true">Github Pages</span></a><span data-preserver-spaces="true">. At the same time, I have done an overhaul of the website and the way I publish static website content.</span></p>
+                    <p><span data-preserver-spaces="true">I have moved the entire website over to </span><a target="_blank" href="https://pages.github.com/" class="editor-rtfLink" rel="noopener"><span data-preserver-spaces="true">GitHub Pages</span></a><span data-preserver-spaces="true">. At the same time, I have done an overhaul of the website and the way I publish static website content.</span></p>
 <p><span data-preserver-spaces="true">I decided to do so because I encountered software upgrade issues with </span><a target="_blank" href="https://ghost.org/" class="editor-rtfLink" rel="noopener"><span data-preserver-spaces="true">Ghost CMS</span></a><span data-preserver-spaces="true"> version 3.32.2 to the latest release. </span><span data-preserver-spaces="true">The Ghost CMS </span><a target="_blank" href="https://github.com/TryGhost/Ghost/issues/11625#issuecomment-644879046" class="editor-rtfLink" rel="noopener"><span data-preserver-spaces="true">isn't compatible</span></a><span data-preserver-spaces="true"> with the most recent version of MySQL 8. I have attempted to install version 5.7 with no good luck. </span></p>
 <p><span data-preserver-spaces="true">I gave up and looked for alternatives.</span></p>
 
@@ -32,7 +32,7 @@
         <content type="html">
             <![CDATA[
                     <img src="https://www.itchy.nl/media/posts/9/2020-10-04.png" alt="" />
-                <p><span data-preserver-spaces="true">I have moved the entire website over to </span><a target="_blank" href="https://pages.github.com/" class="editor-rtfLink" rel="noopener"><span data-preserver-spaces="true">Github Pages</span></a><span data-preserver-spaces="true">. At the same time, I have done an overhaul of the website and the way I publish static website content.</span></p>
+                <p><span data-preserver-spaces="true">I have moved the entire website over to </span><a target="_blank" href="https://pages.github.com/" class="editor-rtfLink" rel="noopener"><span data-preserver-spaces="true">GitHub Pages</span></a><span data-preserver-spaces="true">. At the same time, I have done an overhaul of the website and the way I publish static website content.</span></p>
 <p><span data-preserver-spaces="true">I decided to do so because I encountered software upgrade issues with </span><a target="_blank" href="https://ghost.org/" class="editor-rtfLink" rel="noopener"><span data-preserver-spaces="true">Ghost CMS</span></a><span data-preserver-spaces="true"> version 3.32.2 to the latest release. </span><span data-preserver-spaces="true">The Ghost CMS </span><a target="_blank" href="https://github.com/TryGhost/Ghost/issues/11625#issuecomment-644879046" class="editor-rtfLink" rel="noopener"><span data-preserver-spaces="true">isn't compatible</span></a><span data-preserver-spaces="true"> with the most recent version of MySQL 8. I have attempted to install version 5.7 with no good luck. </span></p>
 <p><span data-preserver-spaces="true">I gave up and looked for alternatives.</span></p>
 
