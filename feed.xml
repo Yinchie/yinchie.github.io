@@ -3,7 +3,7 @@
     <title>Yee Chie Tu</title>
     <link href="https://www.itchy.nl/feed.xml" rel="self" />
     <link href="https://www.itchy.nl" />
-    <updated>2021-01-12T03:24:19+01:00</updated>
+    <updated>2021-02-08T12:01:28+01:00</updated>
     <author>
         <name>Yee Chie Tu</name>
     </author>
@@ -177,7 +177,7 @@
             <category term="dnscrypt"/>
             <category term="dns"/>
 
-        <updated>2020-10-04T04:28:02+02:00</updated>
+        <updated>2021-02-08T12:01:28+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.itchy.nl/media/posts/2/IMG_20200312_130217.jpg" alt="" />
@@ -282,18 +282,18 @@ sudo ./openvpn-install.sh</code></pre>
 <h3 id="install-1">Install</h3>
 <p>Install DNSCrypt-Proxy into the directory <code>/opt</code>, which is for installation of add-on application software packages.</p>
 <pre><code class="language-bash">cd /opt
-sudo wget https://github.com/DNSCrypt/dnscrypt-proxy/releases/download/2.0.44/dnscrypt-proxy-linux_arm-2.0.44.tar.gz
-sudo tar xf dnscrypt-proxy-linux_arm-2.0.44.tar.gz
-sudo rm dnscrypt-proxy-linux_arm-2.0.44.tar.gz
+sudo wget https://github.com/DNSCrypt/dnscrypt-proxy/releases/download/2.0.45/dnscrypt-proxy-linux_arm-2.0.45.tar.gz
+sudo tar xf dnscrypt-proxy-linux_arm-2.0.45.tar.gz
+sudo rm dnscrypt-proxy-linux_arm-2.0.45.tar.gz
 sudo mv linux-arm dnscrypt-proxy
 cd dnscrypt-proxy
 sudo cp example-dnscrypt-proxy.toml dnscrypt-proxy.toml</code></pre>
 <h3 id="detailed-installation-">Detailed installation:</h3>
 <ul>
 <li>Go to the installation directory. ‌<br><code>cd /opt</code></li>
-<li>Download DNSCrypt-Proxy. ‌<br><code>sudo wget <a href="https://github.com/DNSCrypt/dnscrypt-proxy/releases/download/2.0.44/dnscrypt-proxy-linux_arm-2.0.44.tar.gz" target="_blank" rel="nofollow noopener noreferrer">https://github.com/DNSCrypt/dnscrypt-proxy/releases/download/2.0.44/dnscrypt-proxy-linux_arm-2.0.44.tar.gz</a></code></li>
-<li>Unpack the archive. ‌<br><code>sudo tar xf dnscrypt-proxy-linux_arm-2.0.44.tar.gz</code></li>
-<li>Remove the archive. ‌<br><code>sudo rm dnscrypt-proxy-linux_arm-2.0.44.tar.gz</code></li>
+<li>Download DNSCrypt-Proxy. ‌<br><code>sudo wget <a href="https://github.com/DNSCrypt/dnscrypt-proxy/releases/download/2.0.45/dnscrypt-proxy-linux_arm-2.0.45.tar.gz" target="_blank" rel="nofollow noopener noreferrer">https://github.com/DNSCrypt/dnscrypt-proxy/releases/download/2.0.45/dnscrypt-proxy-linux_arm-2.0.45.tar.gz</a></code></li>
+<li>Unpack the archive. ‌<br><code>sudo tar xf dnscrypt-proxy-linux_arm-2.0.45.tar.gz</code></li>
+<li>Remove the archive. ‌<br><code>sudo rm dnscrypt-proxy-linux_arm-2.0.45.tar.gz</code></li>
 <li>Rename the unpacked archive. ‌<br><code>sudo mv linux-arm dnscrypt-proxy</code></li>
 <li>Go to the renamed directory. ‌<br><code>cd dnscrypt-proxy</code></li>
 <li>Create a copy of the configuration file. ‌<br><code>sudo cp example-dnscrypt-proxy.toml dnscrypt-proxy.toml</code></li>
