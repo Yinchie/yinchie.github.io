@@ -3,12 +3,48 @@
     <title>Yee Chie Tu</title>
     <link href="https://www.itchy.nl/feed.xml" rel="self" />
     <link href="https://www.itchy.nl" />
-    <updated>2021-04-05T17:29:20+02:00</updated>
+    <updated>2021-04-05T18:18:31+02:00</updated>
     <author>
         <name>Yee Chie Tu</name>
     </author>
     <id>https://www.itchy.nl</id>
 
+    <entry>
+        <title>Couple photos update #1</title>
+        <author>
+            <name>Yee Chie Tu</name>
+        </author>
+        <link href="https://www.itchy.nl/couple-photos-update-1/"/>
+        <id>https://www.itchy.nl/couple-photos-update-1/</id>
+            <category term="relationship"/>
+            <category term="girlfriend"/>
+            <category term="gallery"/>
+            <category term="friends"/>
+
+        <updated>2021-04-05T18:18:31+02:00</updated>
+            <summary>
+                <![CDATA[
+                    The occasional couple photo updates 😍 Wild and colorful photos so decided to post them up here 😎 @Markthal Rotterdam Fun windy selfie #1 Fun windy selfie #2 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>The occasional couple photo updates 😍</p>
+<p>Wild and colorful photos so decided to post them up here 😎</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://www.itchy.nl/media/posts/13/gallery/IMG_20210403_153458-2.jpg" data-size="1056x1408"><img loading="lazy" src="https://www.itchy.nl/media/posts/13/gallery/IMG_20210403_153458-2-thumbnail.jpg" alt="" width="720" height="960"></a>
+<figcaption>@Markthal Rotterdam</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://www.itchy.nl/media/posts/13/gallery/IMG_20210403_163136-2.jpg" data-size="970x1296"><img loading="lazy" src="https://www.itchy.nl/media/posts/13/gallery/IMG_20210403_163136-2-thumbnail.jpg" alt="" width="720" height="962"></a>
+<figcaption>Fun windy selfie #1</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://www.itchy.nl/media/posts/13/gallery/IMG_20210403_163127-2.jpg" data-size="970x1296"><img loading="lazy" src="https://www.itchy.nl/media/posts/13/gallery/IMG_20210403_163127-2-thumbnail.jpg" alt="" width="720" height="962"></a>
+<figcaption>Fun windy selfie #2</figcaption>
+</figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Quitting Facebook &amp; WhatsApp</title>
         <author>
