@@ -3,12 +3,52 @@
     <title>Yee Chie Tu</title>
     <link href="https://www.itchy.nl/feed.xml" rel="self" />
     <link href="https://www.itchy.nl" />
-    <updated>2021-02-24T23:25:27+01:00</updated>
+    <updated>2021-04-05T17:25:35+02:00</updated>
     <author>
         <name>Yee Chie Tu</name>
     </author>
     <id>https://www.itchy.nl</id>
 
+    <entry>
+        <title>Quitting Facebook &amp; WhatsApp</title>
+        <author>
+            <name>Yee Chie Tu</name>
+        </author>
+        <link href="https://www.itchy.nl/quitting-facebook-and-whatsapp/"/>
+        <id>https://www.itchy.nl/quitting-facebook-and-whatsapp/</id>
+            <category term="whatsapp"/>
+            <category term="privacy"/>
+            <category term="facebook"/>
+
+        <updated>2021-04-05T17:25:35+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.itchy.nl/media/posts/12/goodbyefb.jpg" alt="" />
+                    Recently I had a restriction placed upon me by Facebook of thirty days where I couldn't post and or comment. I found out that I was getting on with life just great without the need to check on Facebook. It was refreshing and saved a&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://www.itchy.nl/media/posts/12/goodbyefb.jpg" alt="" />
+                <p>Recently I had a restriction placed upon me by Facebook of thirty days where I couldn't post and or comment. I found out that I was getting on with life just great without the need to check on Facebook.</p>
+<p class="msg msg--highlight ">It was refreshing and saved a lot of time that I've spent elsewhere instead.</p>
+<p>To keep the trend going using quality time on things that matter instead of reading nonsense posts on Facebook such as memes. I decided to quit using Facebook, for the most part, more about this later.</p>
+<p class="msg msg--info"><strong>Note:</strong> WhatsApp, Instagram, Oculus is owned by Facebook.</p>
+<p>There is another reason why I decided to quit Facebook. For <strong>security</strong> and <strong>privacy</strong> reasons. It is well known how much Facebook tracks and knows of you on and off their website or app.</p>
+<p>Here is an image from <a href="https://9to5mac.com/2021/01/04/app-privacy-labels-messaging-apps/" title="9To5Mac" target="_blank" rel="nofollow noopener noreferrer">9To5Mac</a> displaying how much data Facebook chat applications keep about you.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="1">
+<figure class="gallery__item"><a href="https://www.itchy.nl/media/posts/12/gallery/App-privacy-labels-messaging-apps.png" data-size="1200x600"><img loading="lazy" src="https://www.itchy.nl/media/posts/12/gallery/App-privacy-labels-messaging-apps-thumbnail.png" alt="Apple's new app privacy labels" width="720" height="360"></a>
+<figcaption>Apple's new app privacy labels</figcaption>
+</figure>
+</div></div>
+<p>I decided to switch to <a href="https://signal.org/" title="Signal" target="_blank" rel="nofollow noopener noreferrer">Signal</a>, a highly secure, open-source, peer-reviewed chat application made by a nonprofit company. An extra feature I like is disappearing messages, with a timer as low as <strong>five seconds</strong> compared to seven days on WhatsApp.</p>
+<p>As I said before, I'm quitting Facebook for the most part. Meaning I will still be using Instagram and Oculus Quest VR headset. I'm still being tracked but a lot less. </p>
+<p>Using <a href="https://mullvad.net/en/" title="Mullvad VPN" target="_blank" rel="nofollow noopener noreferrer">Mullvad VPN</a> and <a href="https://nextdns.io/" title="NextDNS" target="_blank" rel="nofollow noopener noreferrer">NextDNS. </a>I keep my connections secure and blocking unwanted (malicious) trackers such as "<strong>privatestats.whatsapp.net</strong>".</p>
+<p class="msg msg--highlight ">RIGHT TO PRIVACY ❤️</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Relationship &lt;3</title>
         <author>
